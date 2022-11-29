@@ -1,0 +1,8 @@
+/venv/
+
+.env
+.class
+.log
+.tmp
+.iws
+.idea/workspace.xml
